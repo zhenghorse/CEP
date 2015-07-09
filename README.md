@@ -1,5 +1,5 @@
 # CEP学习
 __________________
 ### Esper学习
-- [http://www.espertech.com/esper/](http://www.espertech.com/esper/)
-- [http://blog.csdn.net/luonanqin/article/details/21300263](http://blog.csdn.net/luonanqin/article/details/21300263)
+- [官网资料](http://www.espertech.com/esper/)
+- [csdn luonanqin对Esper的专栏介绍](http://blog.csdn.net/luonanqin/article/details/21300263)
