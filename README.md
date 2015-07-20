@@ -5,6 +5,7 @@ __________________
 - [csdn luonanqin对Esper的专栏介绍](http://blog.csdn.net/luonanqin/article/details/21300263)
 - [WSO2 CEP](http://wso2.com/products/complex-event-processor)
 - [WSO2 CEP(Siddhi与Esper对比信息)](http://srinathsview.blogspot.com/2011/12/siddhi-second-look-at-complex-event.html)
+- [CEP Tooling Market Survey 2014(CEP工具情况)](http://www.complexevents.com/2014/12/03/cep-tooling-market-survey-2014/)
 
 #### Esper的不足
---没有事件定义设计器
+- 没有事件定义设计器
