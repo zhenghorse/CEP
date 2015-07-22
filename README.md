@@ -16,5 +16,9 @@ __________________
 - [WSO2 CEP与Esper对比信息](http://wso2.com/library/blog-post/2013/08/cep-performance-processing-100k-to-millions-of-events-per-second-using-wso2-complex-event/)
 - [CEP Tooling Market Survey 2014(CEP工具情况)](http://www.complexevents.com/2014/12/03/cep-tooling-market-survey-2014/)
 
+### Stream与CEP结合
+- [Spark Streaming与Siddhi结合处理流式数据](https://github.com/Stratio/streaming-cep-engine)
+- [Storm与Esper结合](https://github.com/tomdz/storm-esper)
+
 #### Esper的不足
 - 没有事件定义设计器
