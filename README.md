@@ -24,6 +24,7 @@ __________________
 - 没有事件定义设计器
 
 ### Esper与WSO2CEP性能比较
-- 测试平台配置：I5 CPU/12G MM/256G SSD
+- window10 X64        测试平台配置：I5-5200U CPU/12G MM/256G SSD
+- ubuntu12.04 LTS X64 测试平台配置：I5-4590  CPU/4G MM/500G 机械硬盘
 - Esper吞吐量大概在200W/sec左右
 - WSO2CEP吞吐量大概在600W/sec左右，但在windows平台中测试出来只有15W/sec，同样的代码，不知为何数据会差这么多
